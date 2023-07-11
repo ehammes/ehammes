@@ -12,7 +12,7 @@
 
 <div style="width:45%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ehammes&repo=tcl-52-smart-shopping-list)](https://github.com/ehammes/tcl-52-smart-shopping-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ehammes&repo=tcl-52-smart-shopping-list)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
