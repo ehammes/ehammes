@@ -2,7 +2,7 @@
 
 ---
 
-<h4 align='center'>I'm a Frontend Engineer vigorously typing in Seattle 🏔️</h4>
+<h4 align='center'>I'm a Frontend Engineer vigorously coding in Seattle 🏔️</h4>
 
 <div align='center'>
   <img src='images/typing.gif' width='40%'/>
@@ -12,7 +12,12 @@
 
 <div style="width:45%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ehammes&repo=tcl-52-smart-shopping-list)](https://github.com/ehammes/tcl-52-smart-shopping-list)
+[![Portfolio README Card](https://github-readme-stats.vercel.app/api/pin/?username=ehammes&repo=hammes-portfolio)](https://github.com/ehammes/hammes-portfolio)
+
+</div>
+<div style="width:45%">
+
+[![Smart Shopping List README Card](https://github-readme-stats.vercel.app/api/pin/?username=ehammes&repo=tcl-52-smart-shopping-list)](https://github.com/ehammes/tcl-52-smart-shopping-list)
 
 </div>
 
