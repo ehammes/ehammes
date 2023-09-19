@@ -2,7 +2,7 @@
 
 ---
 
-<h4 align='center'>I'm a Frontend Engineer vigorously coding in Seattle 🏔️</h4>
+<h4 align='center'>I'm a Frontend Engineer vigorously coding in 🏔️</h4>
 
 <div align='center'>
   <img src='images/typing.gif' width='40%'/>
